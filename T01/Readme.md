@@ -1,4 +1,4 @@
-🧠 T01: Coneixent la competència i el sector
+### 🧠 T01: Coneixent la competència i el sector
 📌 Breu descripció
 
 Treball pràctic orientat a analitzar el sector dels serveis informàtics a Mataró i definir una estratègia competitiva per captar un client important.
