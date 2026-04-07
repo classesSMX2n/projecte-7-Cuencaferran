@@ -8,7 +8,7 @@ Aquesta Empresa s´ubica al Polígon Balançó i Boter, a Mataró, es una empres
 
 Es dedica al manteniment, cloud, ciberseguretat i al programari de gestió. 
 
-IMG
+
 
 ### Empresa 2: ESED (ciberseguretat)
 
@@ -16,7 +16,7 @@ Aquesta empresa s´ubica a Mataró (tecnocampus), es una empresa PIME especialit
 
 Aquesta empresa es dedica a la ciberseguretat pura: Hacking ètic, serveis gestionats, protecció de dades.
 
-IMG
+
 
 ### Empresa 3: Grup Qualitat
 
@@ -24,7 +24,7 @@ Aquesta empresa té varias seus per tot al maresma, es una empresa PIME mitjana.
 
 Es dediquen a la consultoria i sololucions TIC per la logística i administracions públiques. Són els mes importants de la comarca del maresme.
 
-IMG
+
 
 ## 2. Organigrama:
 
