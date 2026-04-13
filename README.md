@@ -6,9 +6,9 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Ferran cuenca
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: Ferran cuenca i Aran perez 
 
 ## Descripció del projecte
 
