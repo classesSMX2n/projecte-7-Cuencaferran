@@ -1,7 +1,3 @@
-Aquí tens el teu text amb un format **Markdown** professional, visualment atractiu i amb emojis per destacar els punts clau. He organitzat la informació per facilitar-ne la lectura en format de proposta oficial.
-
----
-
 # ☁️ T07: Migrant al Cloud
 ## 📦 Proposta de Modernització de Sistemes: **FoodLogistic**
 
@@ -37,5 +33,55 @@ Comparem els punts clau dels tres candidats principals per als **35 treballadors
 * **📏 Capacitat:** **Google** és qui ofereix més espai ($2.000\text{ GB}$ per persona), ideal si l'empresa guarda moltes fotos o fitxers de logística pesats.
 * **🛡️ Seguretat:** Tant Google com Microsoft són líders mundials i bloquegen pràcticament tots els correus brossa de manera automàtica.
 * **💰 Preu:** **Zoho** és gairebé a meitat de preu, però les seves eines són una mica diferents de les que la gent ja coneix; això podria requerir més temps d'aprenentatge per als empleats.
+
+
+---
+
+### 3. 💰 Càlcul de costos per a 35 empleats
+**Opció escollida:** 🟦 **Microsoft 365 Business Standard**
+
+Creiem que aquesta és la millor opció per a **FoodLogistic** per les raons exposades a la següent taula detallada:
+
+| Concepte | Valor |
+| :--- | :--- |
+| 👤 **Cost mensual per usuari** | 12,5 € |
+| 📅 **Cost anual per usuari (amb descompte)** | 150 € |
+| 👥 **Total llicències (35 usuaris)** | $35 \times 150 = \mathbf{5.250\text{ €/any}}$ |
+| 💳 **Cost mensual total per a l'empresa** | $5.250 / 12 = \mathbf{437,5\text{ €/mes}}$ |
+
+#### ⚙️ Costos d'implantació (Migració)
+
+| Servei | Descripció | Cost estimat |
+| :--- | :--- | :--- |
+| **Eina de migració** | Microsoft 365 Migration Tool | 0 € |
+| **Serveis de migració** | Migració assistida per un partner | 500 € - 1.000 € |
+| **Formació bàsica** | Tutorials i guies d'usuari incloses | 0 € |
+
+> 📊 **Resum d'inversió:**
+> * **Total Any 1** (amb migració assistida): $5.250\text{ €} + 800\text{ € (estimat)} = \mathbf{6.050\text{ €}}$
+> * **Total anys següents:** **5.250 € anuals**
+
+---
+
+### 4. 🛡️ Justificació Tècnica
+**Per què Microsoft 365 Business Standard és la millor opció?**
+
+#### 🔒 Seguretat Màxima
+* **Autenticació Multifactor (MFA):** Protecció de sèrie per a tots els usuaris mitjançant codi al mòbil.
+* **Protecció Avançada (ATP):** Detecció de correus maliciosos i enllaços perillosos en temps real.
+* **Prevenció de pèrdua de dades (DLP):** Evita que informació sensible (com dades financeres o de clients) surti de l'empresa per error.
+* **Xifratge total:** Les dades estan xifrades tant en trànsit com en repòs (TLS/SSL).
+* **Compliment Normatiu:** Compleix estrictament amb el **GDPR**, vital per gestionar dades de proveïdors i clients.
+
+#### 🚀 Eficiència Col·laborativa
+* **Microsoft Teams integrat:** Centre neuràlgic per a xat, videotrucades i reunions en un sol lloc.
+* **OneDrive (1 TB/usuari):** Emmagatzematge massiu al núvol per a comandes i informes logístics.
+* **Office Complet:** Inclou les versions d'escriptori (Word, Excel, PowerPoint) per treballar sense connexió.
+* **Calendari Compartit:** Gestió eficient de torns, magatzems i reunions de logística.
+
+#### 🔄 Migració senzilla i sense risc
+* **Eina gratuïta:** Permet traslladar correus, calendaris i contactes del servei antic de forma automatitzada.
+* **Migració per fases:** Possibilitat de migrar primer direcció, després administració i magatzem, **sense aturar l'operativa de l'empresa**.
+* **Suport 24/7:** Assistència tècnica contínua inclosa en la subscripció.
 
 ---
