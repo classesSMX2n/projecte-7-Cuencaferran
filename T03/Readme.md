@@ -103,7 +103,3 @@ S'han configurat regles específiques per evitar l'abús de l'emmagatzematge:
 2.  **SMB:** Propietats de la carpeta compartida `Operacions` al Server Manager.
 3.  **PS:** Pantallat de l'execució del cmdlet `New-SmbShare`.
 4.  **FSRM:** Captura de la consola de *File Server Resource Manager* mostrant el filtre actiu.
-
----
-
-> **Lliurament generat per l'arquitecte de sistemes.** > *S'adjunta el fitxer de configuració de la GPO per al mapeig de la Unitat Z.*
