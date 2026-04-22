@@ -527,18 +527,6 @@ Es configura l'horari laboral (06:00 a 22:00) per a la impressora.
 
 ---
 
-## 📸 Captura 46 – Permisos de seguretat
-
-![img_T04fugaroles/46.png](img_T04fugaroles/46.png)
-
-**Què s'hi veu?**  
-Pestanya "Security" amb els permisos d'accés.
-
-**Què s'està fent?**  
-Es revisen els permisos del grup Everyone i altres usuaris.
-
----
-
 ## ✅ Resum final
 
 | Fase | Objectiu | Estat |
