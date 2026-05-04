@@ -24,3 +24,6 @@ La web està disponible per a la seva revisió a través de **GitHub Pages**. Po
 
 ---
 **Equip de Projecte Intermodular** Tasca: P02 - Selecció i desplegament de la web corporativa.
+
+## Link web corporativa: 
+https://classessmx2n.github.io/web-projecte7-PerezAran/index.html
