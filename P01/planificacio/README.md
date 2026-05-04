@@ -1,5 +1,3 @@
-Aquí tens el contingut del teu lliurament **T09** estructurat en un fitxer `README.md` professional, visualment atractiu i llest per pujar al teu repositori a la carpeta `/P01/Planificacio/`.
-
 ---
 
 # 🚀 T09: Planificació i Estimació Temporal - FoodLogístics S.A.
