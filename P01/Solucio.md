@@ -102,7 +102,7 @@ Per entendre el mercat on ens movem, hem analitzat tres empreses competidores a 
 
 ## 3. Proposta de solució
 
-### 3.1 Infraestructura (T03) - Servidor de fitxers
+### 3.1 Infraestructura (T03) - Servidor de fitxers: https://github.com/classesSMX2n/projecte-7-Cuencaferran/tree/main/T03
 
 #### 3.1.1 Preparació de l'entorn Active Directory
 
@@ -150,7 +150,7 @@ Per automatitzar l'accés dels usuaris de Direcció, hem creat una GPO que mapej
 | Quota carpeta Public | FSRM | 200 MB (Hard Quota) |
 | Filtratge fitxers | FSRM | Bloqueig `.exe`, `.msi`, `.mp3`, `.mp4` |
 
-### 3.2 Infraestructura (T04) - Servidor d'impressió amb Printer Pooling
+### 3.2 Infraestructura (T04) - Servidor d'impressió amb Printer Pooling: https://github.com/classesSMX2n/projecte-7-Cuencaferran/tree/main/T04
 
 #### 3.2.1 Context i justificació
 
