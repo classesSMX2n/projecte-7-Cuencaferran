@@ -1,107 +1,59 @@
-### 🧠 T01: Coneixent la competència i el sector
-📌 Breu descripció
+# 🔍 T01: Coneixent la Competència i el Sector (FoodLogistic S.A.)
 
-Treball pràctic orientat a analitzar el sector dels serveis informàtics a Mataró i definir una estratègia competitiva per captar un client important.
+---
 
-🚀 Introducció
+## 🏢 1. Introducció i Context del Cas
 
-Heu creat la vostra pròpia empresa de serveis informàtics a Mataró 🏙️. Tot just esteu iniciant la vostra activitat professional independent i heu rebut una gran oportunitat: un client potencial molt important.
+Com a socis fundadors d'**EverPia Solutions**, la nostra cooperativa de serveis informàtics a Mataró, ens trobem davant del nostre primer gran repte comercial: **FoodLogístic S.A.**, una potència en la distribució alimentària ubicada al Polígon de les Hortes del Camí Ral. 
 
-🏢 FoodLogístic S.A., una empresa de logística alimentària situada al polígon de les Hortes del Camí Ral, necessita una renovació completa de la seva infraestructura tecnològica.
+Aquest client requereix una modernització integral de la seva infraestructura (sistemes, xarxes i ciberseguretat LOPD). Per garantir que som l'opció escollida enfront de la competència local del Maresme, hem realitzat un estudi de mercat, una radiografia estructural del sector i la definició de la nostra proposta de valor.
 
-👉 Aquesta és una gran oportunitat per assegurar un client a llarg termini... però ⚠️ no sou els únics!
+---
 
-Per convèncer-los, haureu de:
+## 📊 Fase 1: Anàlisi de Mercat i Competència Local
 
-Entendre el sector 💡
-Analitzar la competència 🕵️‍♂️
-Presentar una proposta atractiva 💼
-🔍 Fase 1: Coneixent el terreny i la competència
-📊 Recerca de mercat
+### 🏢 1.1 Recerca i Classificació d'Empreses del Sector al Maresme
 
-Identifiqueu almenys 3 empreses reals de serveis informàtics a:
+Per conèixer el terreny on competim, hem identificat tres empreses reals del sector IT que operen a Mataró i rodalies:
 
-Mataró
-Maresme
+| Empresa | Ubicació | Mida | Serveis Principals |
+| :--- | :--- | :--- | :--- |
+| **Grup CBS Quality** | Mataró (Centre) | PIME | Manteniment informàtic integral, auditories de seguretat, xarxes i telefonia IP corporativa. |
+| **Inforestudio** | Mataró (Via Europa) | Microempresa | Suport tècnic de proximitat, configuració de servidors locals i gestió de còpies de seguretat. |
+| **Maresme Connect** | Premià de Mar / Mataró | PIME | Infraestructura de xarxes de comunicacions, connectivitat industrial i cloud computing. |
 
-Per a cada empresa:
+---
 
-🏷️ Classifiqueu-la segons la mida:
-Microempresa
-PIME
-🛠️ Indiqueu els serveis que ofereixen:
-Manteniment
-Xarxes
-Desenvolupament de software
-Altres
-🧩 L’organigrama
+### 📉 1.2 L'Organigrama de la Competència Tipus (PlantUML)
 
-Trieu:
+A continuació, es representa l'estructura organitzativa d'una PIME tipus del sector de serveis informàtics de la comarca, dissenyada per donar suport a clients industrials i logístics:
 
-Una empresa real de la competència o
-Creeu una empresa tipus (mitjana del sector)
+```plantuml
+@startuml
+skinparam monochrome false
+skinparam packageStyle rectangle
+skinparam shadowing false
 
-🎯 Objectiu: representar la seva estructura organitzativa.
+title Organigrama Tipus - PIME de Serveis IT (Maresme)
 
-🛠️ Eines obligatòries:
-PlantUML → per generar el diagrama a partir de codi
-UMLTree → per estructurar jerarquies
+node "Direcció General (CEO)" as CEO #DDFFFF
 
-💡 Podeu utilitzar IA per:
+package "Àrea de Negoci i Gestió" {
+    agent "Departament Comercial" as Comercial #FFF0F5
+    agent "Administració i RH" as Admin #FFF0F5
+}
 
-Generar el codi
-Convertir estructures en diagrames
-Millorar l’organització
+package "Àrea Tècnica i Operacions" {
+    agent "Departament de Sistemes i Cloud" as Sistemes #E6F2FF
+    agent "Departament de Seguretat i LOPD" as Seguretat #E6F2FF
+    agent "Suport Tècnic / Helpdesk" as Helpdesk #E6F2FF
+}
 
-⚠️ Important: Heu d’entendre el codi! No copieu sense criteri.
+CEO --> Comercial
+CEO --> Admin
+CEO --> Sistemes
+CEO --> Seguretat
 
-🏢 Radiografia de departaments
-
-Definiu els departaments de l’empresa i expliqueu les seves funcions:
-
-Exemples:
-
-🖥️ Sistemes → Gestió de servidors i infraestructura
-🎧 Suport / Helpdesk → Atenció a incidències
-💼 Comercial → Captació de clients
-📊 Administració → Facturació i gestió interna
-🎯 Fase 2: Estratègia
-💡 Definició de l’estratègia
-
-Determineu la vostra proposta de valor per destacar davant la competència:
-
-Exemples:
-
-🤝 Proximitat i tracte personal
-⏰ Servei 24/7
-💰 Preus competitius
-⚡ Resposta ràpida
-
-👉 Heu de justificar la vostra elecció.
-
-👥 Recursos necessaris
-
-Feu una llista dels recursos humans necessaris:
-
-👨‍💻 Tècnics de sistemes
-🧑‍🔧 Suport tècnic
-📞 Comercial
-📊 Administració
-
-❓ Reflexioneu:
-
-Sou suficients?
-Cal contractar més personal?
-📦 Què cal lliurar
-
-📄 Document conjunt que inclogui:
-
-Desenvolupament de la Fase 1
-Desenvolupament de la Fase 2
-
-📌 Requisits:
-
-Penjat al repositori de cada membre del grup
-Propostes raonades i justificades
-
-✨ Consell final: Sigueu realistes i estratègics — aquest projecte simula una situació professional real!
+Sistemes --> Helpdesk : Escalat N2/N3
+Seguretat --> Helpdesk : Polítiques
+@enduml
