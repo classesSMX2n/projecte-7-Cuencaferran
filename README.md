@@ -84,7 +84,7 @@ projecte7/
 - [🔍 T01 – Coneixent la competència i el sector](./T01%20Coneixent%20la%20compet%C3%A8ncia%20i%20el%20sector)
 - [✍️ T02 – Creant la proposta de pàgina corporativa](./T02%20Creant%20la%20proposta%20de%20p%C3%A0gina%20corporativa)
 - [📁 T03 – Servidor de fitxers](./T03%20Servidor%20de%20fitxers)
-- [🖨️ T04 – Servidor d'impressió](./T04%20Servidor%20d%27impressi%C3%B3)
+- [🖨️ T04 – Servidor d'impressió](./T04%20Servidor%20d’impressió)
 - [🎥 T05 – Vídeo formatiu LOPD empleats](./T05%20V%C3%ADdeo%20formatiu%20LOPD%20empleats)
 - [🛡️ T06 – Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A](./T06%20Operaci%C3%B3%20Escut%20Digital%20Fent%20100%25%20legal%20la%20web%20de%20FoodLog%C3%ADstic%20S.A)
 - [☁️ T07 – Migrant al cloud](./T07%20Migrant%20al%20cloud)
